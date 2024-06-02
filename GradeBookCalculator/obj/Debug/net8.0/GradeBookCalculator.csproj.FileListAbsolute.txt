@@ -1,0 +1,15 @@
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\bin\Debug\net8.0\GradeBookCalculator.exe
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\bin\Debug\net8.0\GradeBookCalculator.deps.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\bin\Debug\net8.0\GradeBookCalculator.runtimeconfig.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\bin\Debug\net8.0\GradeBookCalculator.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\bin\Debug\net8.0\GradeBookCalculator.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.AssemblyInfoInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.AssemblyInfo.cs
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.sourcelink.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\refint\GradeBookCalculator.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\GradeBookCalculator.genruntimeconfig.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\GradeBookCalculator\obj\Debug\net8.0\ref\GradeBookCalculator.dll
