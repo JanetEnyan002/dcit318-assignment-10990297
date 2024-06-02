@@ -1,0 +1,15 @@
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\bin\Debug\net8.0\TriangleType.exe
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\bin\Debug\net8.0\TriangleType.deps.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\bin\Debug\net8.0\TriangleType.runtimeconfig.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\bin\Debug\net8.0\TriangleType.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\bin\Debug\net8.0\TriangleType.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.AssemblyInfoInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.AssemblyInfo.cs
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.csproj.CoreCompileInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.sourcelink.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\refint\TriangleType.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\TriangleType.genruntimeconfig.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TriangleType\obj\Debug\net8.0\ref\TriangleType.dll
