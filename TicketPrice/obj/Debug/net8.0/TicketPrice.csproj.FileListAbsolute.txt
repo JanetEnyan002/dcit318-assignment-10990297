@@ -1,0 +1,15 @@
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\bin\Debug\net8.0\TicketPrice.exe
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\bin\Debug\net8.0\TicketPrice.deps.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\bin\Debug\net8.0\TicketPrice.runtimeconfig.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\bin\Debug\net8.0\TicketPrice.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\bin\Debug\net8.0\TicketPrice.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.AssemblyInfoInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.AssemblyInfo.cs
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.sourcelink.json
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\refint\TicketPrice.dll
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.pdb
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\TicketPrice.genruntimeconfig.cache
+C:\Users\Janet Enyan\Desktop\dcit318-assignment-10990297\TicketPrice\obj\Debug\net8.0\ref\TicketPrice.dll
